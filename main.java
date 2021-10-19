@@ -28,6 +28,8 @@ public class Main
 		System.out.println(var3 * var4);
 	
 	
+		}else{
+		System.out.println("Error, enter either 1 or 2");
 		}
 		
 		
